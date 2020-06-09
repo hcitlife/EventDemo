@@ -1,0 +1,7 @@
+server:
+    port: 8080
+    servlet:
+        context-path: /ed
+context:
+    listener:
+        classes: com.hc.demo3.EmailEventListener3
